@@ -18,4 +18,4 @@ Selection Sort
 # Where can I find the results? 
 The results are available from the results.html file.
 
-# This project is the work of Aditya Snehal Pujara, email: adityapujara42002@gmail.com
+# This project is the work of Aditya Pujara, email: adityapujara42002@gmail.com
