@@ -19,4 +19,8 @@ Selection Sort
 * Using the generatedata bash file in both the sorted and unsorted folders
 * This will prepare csv files for each algorithm, within their respective folders, for the specific size of the dataset
 
+# Languages used:
+* C++ for algorithm implementation
+* Bash to automate the testing
+
 # This project is the work of Aditya Pujara, email: adityapujara42002@gmail.com
