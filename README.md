@@ -15,7 +15,8 @@ Selection Sort
 * For certain algorithms such as selection sort, the impact of whether the dataset is sorted or unsorted is very minor
 * Algorithms of similar time complexities can perform differently
 
-# Where can I find the results? 
-The results are available from the results.html file.
+# How can I test the algorithms?
+* Using the generatedata bash file in both the sorted and unsorted folders
+* This will prepare csv files for each algorithm, within their respective folders, for the specific size of the dataset
 
 # This project is the work of Aditya Pujara, email: adityapujara42002@gmail.com
