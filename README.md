@@ -16,7 +16,10 @@ This project attempts to test algorithms based on the size and nature (sorted or
 * Algorithms of similar time complexities can perform differently
 
 # How can I test the algorithms?
-* Using the generatedata bash file in both the sorted and unsorted folders
+* Download the zip folders 'sorted data.zip' and 'unsorted data.zip', and unzip the folders
+# Using a linux terminal (or WSL on windows):
+* cd into the 'sorted data' folder or 'unsorted data' folder
+* Run the generatedata bash file in both the sorted and unsorted folders
 * This will prepare csv files for each algorithm, within their respective folders, for the specific size of the dataset
 
 # Languages used:
