@@ -21,6 +21,7 @@ This project attempts to test algorithms based on the size and nature (sorted or
 * cd into the 'sorted data' folder or 'unsorted data' folder
 * Run the generatedata bash file in both the sorted and unsorted folders
 * This will prepare csv files for each algorithm, within their respective folders, for the specific size of the dataset
+* To view the csv files, cd into any algorithm folder, and then cd into the specific size of dataset for which you would like to see the results
 
 # Languages used:
 * C++ for algorithm implementation
