@@ -1,6 +1,6 @@
 # Investigation-on-Sorting-Speed-Based-on-Dataset-Characterisitics
 # What is this project about? 
-This project attempts to test algorithms based on the size and nature (sorted or unsorted) of the dataset.
+This project attempts to test sorting algorithms based on the size and nature (sorted or unsorted) of the dataset.
 
 # Which algorithms were tested?
 * Merge Sort
@@ -14,6 +14,11 @@ This project attempts to test algorithms based on the size and nature (sorted or
 * Algorithmic efficiency has not been measured for the different sizes of datasets in such a manner
 * For certain algorithms such as selection sort, the impact of whether the dataset is sorted or unsorted is very minor
 * Algorithms of similar time complexities can perform differently
+
+# Controlled variables
+* Hardware
+* Compiler Version
+* Compiler Optimisations
 
 # Were there any interesting results?
 * Selection sort seems to perform better on unsorted datasets than sorted datasets.
