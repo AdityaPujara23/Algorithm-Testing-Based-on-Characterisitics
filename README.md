@@ -17,6 +17,7 @@ This project attempts to test sorting algorithms based on the size and nature (s
 
 # Controlled variables
 * Hardware
+* Hardware Gen
 * Compiler Version
 * Compiler Optimisations
 
