@@ -30,6 +30,7 @@ This project attempts to test sorting algorithms based on the size and nature (s
 # Instructions for Usage:
 
 ## Test the Algorithms
+### Note this does not influence the web app and is not a required step to run the web application.
 * Download the zip folders 'sorted data.zip' and 'unsorted data.zip', and unzip the folders
 ### Using a linux terminal (or WSL on windows, MacOS not supported):
 * cd into the 'sorted data' folder or 'unsorted data' folder
