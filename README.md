@@ -1,4 +1,4 @@
-# Investigation-on-Sorting-Speed-Based-on-Dataset-Characterisitics
+# Data Test
 # What is this project about? 
 This project attempts to test sorting algorithms based on the size and nature (sorted or unsorted) of the dataset.
 
