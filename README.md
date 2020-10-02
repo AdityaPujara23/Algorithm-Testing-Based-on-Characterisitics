@@ -1,6 +1,6 @@
 # Data Test Web App
 # What is this project about? 
-This project attempts to test sorting algorithms based on the size and nature (sorted or unsorted) of the dataset.
+This project attempts to test sorting algorithms based on the size and nature (sorted or unsorted) of the dataset. The results obtained after testing the algorithms are displayed dynamically (charts etc.) through the web app. 
 
 # Which algorithms were tested?
 * Merge Sort
