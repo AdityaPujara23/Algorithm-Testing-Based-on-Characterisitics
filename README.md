@@ -27,7 +27,8 @@ This project attempts to test sorting algorithms based on the size and nature (s
 * Insertion Sort performed the best for small datasets (sorted and unsorted) of size 100 integers.
 * Quick Sort was assumed to perform better for the smaller datasets (sorted and unsorted), but it performed the worst!
 
-# Instructions for Usage
+# Instructions for Usage:
+
 ## Test the Algorithms
 * Download the zip folders 'sorted data.zip' and 'unsorted data.zip', and unzip the folders
 ### Using a linux terminal (or WSL on windows, MacOS not supported):
@@ -35,6 +36,7 @@ This project attempts to test sorting algorithms based on the size and nature (s
 * Run the generatedata bash file in both the sorted and unsorted folders
 * This will prepare csv files for each algorithm, within their respective folders, for the specific size of the dataset
 * To view the csv files, cd into any algorithm folder, and then cd into the specific size of dataset for which you would like to see the results
+
 ## Web app
 * Install or update Dash with the command:
 pip install dash==1.16.2
