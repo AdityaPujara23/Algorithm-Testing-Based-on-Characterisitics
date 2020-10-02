@@ -1,4 +1,4 @@
-# Data Test
+# Data Test Web App
 # What is this project about? 
 This project attempts to test sorting algorithms based on the size and nature (sorted or unsorted) of the dataset.
 
