@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/59631311/107870009-a2ed6d80-6ee4-11eb-878f-ef322c0e2114.png)
 # Data Test Web App
 ![image](https://user-images.githubusercontent.com/59631311/107870009-a2ed6d80-6ee4-11eb-878f-ef322c0e2114.png)
 
