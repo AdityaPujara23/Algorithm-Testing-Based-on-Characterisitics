@@ -39,10 +39,12 @@ This project attempts to test sorting algorithms based on the size and nature (s
 * To view the csv files, cd into any algorithm folder, and then cd into the specific size of dataset for which you would like to see the results
 
 ## Web app
-* Install or update Dash with the command:
-pip install dash==1.16.2
+* Install or update requirements with the commands:
+`pip install dash==1.16.2`
+`pip install dash_bootstrap_components`
+`pip3 install pandas`
 * Run the web app with the command:
-python app.py
+`python app.py`
 
 # Languages used:
 * C++ for algorithm implementation
