@@ -49,5 +49,3 @@ This project attempts to test sorting algorithms based on the size and nature (s
 # Languages used:
 * C++ for algorithm implementation
 * Bash to automate the testing
-
-# This investigation is the work of Aditya Pujara, email: adityapujara42002@gmail.com
